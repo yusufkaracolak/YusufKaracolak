@@ -6,7 +6,7 @@
 
 
 
-                                                                          Mail: yusufkaracolak@gmail.com
+
 
 ## I'm a Turkish teenager studying at university and also dealing with coding.
 
@@ -34,3 +34,4 @@
 
 [website]: https://prisma.tebex.io/
 [youtube]: https://www.youtube.com/channel/UC3uaWdIKz07_Ik5V9N5NqFA
+                                                       Mail: yusufkaracolak@gmail.com
