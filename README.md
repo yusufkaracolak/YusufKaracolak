@@ -2,7 +2,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3uaWdIKz07_Ik5V9N5NqFA?logo=youtube&logoColor=red&style=for-the-badge)][youtube] <!-- [![Website](https://img.shields.io/website?label=zerio-scripts.com&url=https%3A%2F%2Fzerio-scripts.com&style=for-the-badge)](https://zerio-scripts.com) -->
 [![Website](https://img.shields.io/website?label=prisma-store&style=for-the-badge&url=https%3A%2F%2Fhttps://prisma.tebex.io/)](https://prisma.tebex.io/)
-![Website](https://komarev.com/ghpvc/?username=yusufkaracolak&style=for-the-badge&color=dc143c)
+![Website](https://komarev.com/ghpvc/?username=yusufkaracolak&style=for-the-badge&color=red)
 
 
 
