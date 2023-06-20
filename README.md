@@ -2,7 +2,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3uaWdIKz07_Ik5V9N5NqFA?logo=youtube&logoColor=red&style=for-the-badge)][youtube] <!-- [![Website](https://img.shields.io/website?label=zerio-scripts.com&url=https%3A%2F%2Fzerio-scripts.com&style=for-the-badge)](https://zerio-scripts.com) -->
 [![Website](https://img.shields.io/website?label=prisma-store&style=for-the-badge&url=https%3A%2F%2Fhttps://prisma.tebex.io/)](https://prisma.tebex.io/)
-<img align="left" alt="yusufkaracolak GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yusufkaracolak&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
 
 
 
