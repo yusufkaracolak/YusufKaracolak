@@ -29,7 +29,7 @@
 <br />
 
 ## :zap: GitHub Stats
-<img align="left" alt="Yusuf Karaçolak GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aiakos232&show_icons=true&hide_border=false&icon_color=FFE400&theme=tokyonight&border_color=black" />
+<img align="left" alt="Yusuf Karaçolak GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufkaracolak&show_icons=true&hide_border=false&icon_color=FFE400&theme=tokyonight&border_color=black" />
 
 [youtube]: https://www.youtube.com/channel/UC3uaWdIKz07_Ik5V9N5NqFA
                                                        Mail: yusufkaracolak@gmail.com
