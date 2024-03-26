@@ -7,9 +7,8 @@
 
 
 
-## I'm a Turkish teenager studying at university and also dealing with coding.
+## I'm a Turkish teenager studying at university and also dealing with 
 
-- Official PRCore developer & contributer.
 - 🔭 Take a look at our website and other links
 - 🤔 I am currently learning multiple languages
 
