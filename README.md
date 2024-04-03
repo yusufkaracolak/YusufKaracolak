@@ -27,6 +27,9 @@
 <br />
 <br />
 
+<img src="https://raw.githubusercontent.com/yusufkaracolak/YusufKaracolak/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+
 ## :zap: GitHub Stats
 <img align="left" alt="Yusuf Karaçolak GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufkaracolak&show_icons=true&hide_border=false&icon_color=FFE400&theme=tokyonight&border_color=black" />
 
